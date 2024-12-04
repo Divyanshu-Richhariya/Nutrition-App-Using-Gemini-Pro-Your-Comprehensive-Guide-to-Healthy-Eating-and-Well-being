@@ -28,11 +28,6 @@ Start
 
 End
 
-Demo
-88bc7558-2a0e-41cf-98db-594cca9cbcaa
-
-Live Project
-https://diet-and-workout-recommendation-using-app-gemini-pro.streamlit.app/
 
 Setup and Usage
 Obtain a Google Gemini Pro API key.
